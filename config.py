@@ -1,0 +1,2 @@
+API_TOKEN = '8595928325:AAGKim5IdYi-68EPjyzsymbFpdi_WnAXhhY'
+LM_STUDIO_URL = 'http://127.0.0.1:1234/v1'
